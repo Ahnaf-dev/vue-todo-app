@@ -1,7 +1,7 @@
 # Vue Todo App
 This is a simple To-Do List app built with Vue.js 3, Tailwind CSS, Vue Router, and Vuex for state management.
 
-[Live Link](https://job-board-app-mern.netlify.app/)
+[Live Link]([https://job-board-app-mern.netlify.app/](https://vue-todo-app12345.netlify.app/))
 
 ## Technologies
 
